@@ -1,5 +1,8 @@
 # Coffee Shop Sales
 
+# Dashboard  link
+ https://app.powerbi.com/groups/me/reports/9f05761c-a69e-4a2f-9b40-a76676b08d1b/7819a3a5e0a0429bfd34?experience=power-bi
+
 This project is about an overall performance of a coffee shop for a particular period.
 
 KPI Requirements ✏ :
